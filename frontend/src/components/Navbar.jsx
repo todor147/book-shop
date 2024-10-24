@@ -32,7 +32,7 @@ const Navbar = () => {
             {currentUser ? (
               <>
                 <button>
-                  <img src="" alt="" />
+                  <img src="avatar.png" alt="avatar" />
                 </button>
               </>
             ) : (
